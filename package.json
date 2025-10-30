@@ -1,0 +1,22 @@
+{
+  "name": "vectorsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraldBrom/VectorSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeraldBrom/VectorSearch/issues"
+  },
+  "homepage": "https://github.com/GeraldBrom/VectorSearch#readme",
+  "dependencies": {
+    "bootstrap": "5.3.8"
+  }
+}
